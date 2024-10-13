@@ -19,7 +19,7 @@ class AvanishSingh:
             "React", "Machine Learning", "AI", "SQL", 
             "HTML", "CSS"
         ]
-        self.current_position = "Software Engineer Intern Cerified @ HackerRank"
+        self.current_position = "Software Engineer Intern Certified @ HackerRank"
         self.passion = "Building AI-driven solutions and creating full-stack web applications"
         self.interests = ["Web Development", "AI/ML", "Open Source", "Automation"]
 
