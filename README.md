@@ -55,7 +55,7 @@ I love to **collaborate** on exciting tech projects, **mentor** aspiring develop
 
 ## 📊 GitHub Stats
 
-![Avanish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryanshsk&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshsk&layout=compact&theme=radical)
 
 ---
