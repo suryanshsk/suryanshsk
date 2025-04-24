@@ -112,7 +112,10 @@ This comprehensive guide is ideal for:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshsk&layout=compact&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshsk&theme=radical" />
+
+  [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=suryanshsk&theme=highcontrast)](https://git.io/streak-stats)
+  
+  
 </p>
 
 ---
